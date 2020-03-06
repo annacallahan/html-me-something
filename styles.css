@@ -1,0 +1,42 @@
+body {
+    padding-left:200px;
+    padding-right:200px;
+}
+#logo {
+    width:400px;
+    display: block;
+    margin: auto;
+}
+#headerimage {
+    width: 800px;
+    display: block;
+    margin: auto;
+}
+img {
+    width:700px;
+    padding: 20px;
+}
+#Main1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+div {
+    background: lightgrey;
+    border-width: 10px;
+    padding: 5px;
+}
+p.maintext {
+ color: darkslategrey;
+}
+button {
+    color: white;
+    padding: 10px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    background: lightblue;
+    font-weight: bold;
+    font-size: 20px;
+}
+.materialstext {
+    margin-left:20px;}
